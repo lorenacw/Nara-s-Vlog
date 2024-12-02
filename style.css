@@ -1,0 +1,50 @@
+body{background-color:#ffe0ef;}
+h1{
+	color:#df5b9b;
+	font-family:Snell Roundhand;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2{
+	color:#df5b9b;
+	font-family:Snell Roundhand;
+	font-size: 30px;
+	text-align: center;
+}
+
+P{
+	color:#000000;
+	font-family: URW Bookman L;
+	font-size: 20px;
+	line-height: 0.5;
+}
+
+a{
+	text-decoration: none;
+	color: #6a214d;
+	font-family: Palatino;
+	font-size: 15px;
+	font-weight: 600;
+	font-style: italic;
+}
+
+a:hover{color: #4f610b}
+
+ul{list-style: none;
+}
+
+li{
+	padding: 10px;
+	border-color: #ffa1da;
+	border-style: solid;
+	border-width: 2px;
+	background-color: #ffd8f0;
+	width: 1790px;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
